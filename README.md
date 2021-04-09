@@ -1,4 +1,7 @@
-
+<p>
+  <a href="https://github.com/rasulagarzayev1"><img src="https://img.shields.io/github/followers/rustamfetullayev.svg?label=GitHub&style=social" alt="GitHub"></a>
+  <a href="https://www.linkedin.com/in/rasul-agharzayev/"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
+</p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rasulagarzayev1&show_icons=true&count_private=true&theme=algolia">
 </p>
